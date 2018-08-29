@@ -25,7 +25,7 @@ class Solution {
         }
         
 		L3.next = L1 != null ? L1 : L2; 
-		return L3.next;
+		return l3.next;
 
         
     }
